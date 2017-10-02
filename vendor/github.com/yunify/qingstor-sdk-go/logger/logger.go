@@ -23,7 +23,7 @@ import (
 	"os"
 	"strings"
 	"time"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 // Logger is the interface of SDK logger.
